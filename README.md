@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MrProgrammer77
+- 👋 Hi, I’m Muhammad Rostami
 - 👀 I’m interested in Music and Programming
 - 🌱 I’m currently learning Python and django
 - 💞️ I’m looking to collaborate on a reputable company
-- 📫 How to reach me ID Telegram : @developer1998_10
+- 📫 How to reach me ID Telegram : @DejangoDev
 
 <!---
 MrProgrammer77/MrProgrammer77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
