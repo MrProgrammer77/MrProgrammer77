@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Rostami
 - 👀 I’m interested in Music and Programming
-- 🌱 I’m currently learning Python and django
+- 🌱 I’m currently learning Python and django, falsk , fastapi, telegram bot and automation bots
 - 💞️ I’m looking to collaborate on a reputable company
 - 📫 How to reach me ID Telegram : @DjangoDev
 
